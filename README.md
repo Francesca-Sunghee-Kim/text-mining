@@ -1,2 +1,2 @@
-# text-mining
+# Text-Mining
 Text mining with AWS, Tweeter
